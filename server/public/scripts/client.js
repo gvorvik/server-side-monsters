@@ -1,0 +1,8 @@
+console.log('JS is in');
+
+$(document).ready(onReady);
+
+function onReady() {
+    console.log('jQuery is ready');
+    
+}
